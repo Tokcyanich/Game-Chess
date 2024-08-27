@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u043F\u0440\u043E\u0433\u0430\\repos\\chess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35FA2F41-6B36-4B91-8D07-67359877C43B}|chess.vcxproj|E:\\\u043F\u0440\u043E\u0433\u0430\\repos\\chess\\chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35FA2F41-6B36-4B91-8D07-67359877C43B}|chess.vcxproj|solutionrelative:chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chess.cpp",
+              "DocumentMoniker": "E:\\\u043F\u0440\u043E\u0433\u0430\\repos\\chess\\chess.cpp",
+              "RelativeDocumentMoniker": "chess.cpp",
+              "ToolTip": "E:\\\u043F\u0440\u043E\u0433\u0430\\repos\\chess\\chess.cpp*",
+              "RelativeToolTip": "chess.cpp*",
+              "ViewState": "AQIAAJ8GAAAAAAAAAAAAAPwGAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T12:04:37.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
